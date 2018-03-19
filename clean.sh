@@ -1,9 +1,6 @@
 #!/bin/bash
 # Name cleardown
 # Description move you files in ~/Downloads to ~/Documents/Office Files
-# Author FungLeo
-# WebSite http://blog.csdn.net/fungleo
-
 # find .  -maxdepth 1 -type f
 # Excel  Other  PDF  Photo  PPT  Word  Xmind  Zip
 
